@@ -1,6 +1,3 @@
-# data-science-portfolio
-Selected Data Science and Machine Learning projects
-
 # Data Science Portfolio
 This repository contains selected academic projects completed as part of my Data Science & Analytics professional training at Netology (2024–2026).
 
